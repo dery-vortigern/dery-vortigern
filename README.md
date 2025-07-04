@@ -1,16 +1,17 @@
-## Hi there 👋
+# Halo, saya Dery 👋
 
-<!--
-**dery-vortigern/dery-vortigern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang mahasiswa IT yang tertarik pada pengembangan web dan manajemen proyek.
 
-Here are some ideas to get you started:
+## 🚀 Keahlian
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Database: MySQL, MongoDB
+- Tools: Git, GitHub, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyek Saya
+### 1. [Toko Laptop](https://github.com/dery-vortigern/toko-laptop-baru.git)
+Aplikasi untuk menyediakan tempat jual beli laptop.
+
+
+## 🔗 Kontak
+- 📫 Email: deryanugerah27@gmail.com
