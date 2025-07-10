@@ -27,7 +27,6 @@ Jika Anda ingin mengetahui lebih lanjut tentang pengalaman, proyek, dan keahlian
 
 <h2 align="center">Hiburan kecil</h2>
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dery-vortigern/dery-vortigern/output/pacman-contribution-graph-dark.svg">
@@ -35,7 +34,6 @@ Jika Anda ingin mengetahui lebih lanjut tentang pengalaman, proyek, dan keahlian
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dery-vortigern/dery-vortigern/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
 <img src="https://raw.githubusercontent.com/dery-vortigern/dery-vortigern/output/snake.svg" alt="Snake animation" />
 
