@@ -1,4 +1,4 @@
-![dery-vortigern](img/header-saya.png)
+![dery-vortigern](img/header-profil.png)
 ### 💫 About Me:
 Selamat datang di profil GitHub saya! Saya seorang mahasiswa IT yang tertarik pada pengembangan web dan manajemen proyek. Saya senang mempelajari teknologi baru dan membangun aplikasi web yang bermanfaat.
 
