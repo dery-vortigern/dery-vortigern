@@ -24,4 +24,20 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa IT yang tertarik pa
 Jika Anda ingin mengetahui lebih lanjut tentang pengalaman, proyek, dan keahlian saya secara detail, silakan kunjungi website portofolio saya berikut:
 
 👉 [dery-vortigern.github.io/dery-portfolio](https://dery-vortigern.github.io/dery-portfolio/)
+
+<h2 align="center">Hiburan kecil</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dery-vortigern/dery-vortigern/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dery-vortigern/dery-vortigern/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dery-vortigern/dery-vortigern/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/dery-vortigern/dery-vortigern/output/snake.svg" alt="Snake animation" />
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
